@@ -46,6 +46,10 @@ button {
     align-items: left;
 }
 
+.buttons {
+    text-align: left;
+}
+
 button:hover {
     background: #3d3d3d;
     transform: translateY(-2px);
